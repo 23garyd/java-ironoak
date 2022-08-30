@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.bytedeco:depthai-platform:2.17.3-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp-platform:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-arm:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-arm64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-x86:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:android-x86_64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:ios-arm64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:ios-x86_64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-armhf:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-arm64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-ppc64le:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-x86:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:linux-x86_64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:macosx-arm64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:macosx-x86_64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:windows-x86:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:javacpp:windows-x86_64:1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:depthai:2.17.3-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:depthai:linux-armhf:2.17.3-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:depthai:linux-arm64:2.17.3-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:depthai:linux-x86:2.17.3-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:depthai:linux-x86_64:2.17.3-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:depthai:macosx-x86_64:2.17.3-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv-platform:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas-platform:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:android-arm:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:android-arm64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:android-x86:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:android-x86_64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:ios-arm64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:ios-x86_64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:linux-x86:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:linux-x86_64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:linux-armhf:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:linux-arm64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:linux-ppc64le:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:macosx-arm64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:macosx-x86_64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:windows-x86:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:openblas:windows-x86_64:0.3.21-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:android-arm:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:android-arm64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:android-x86:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:android-x86_64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:ios-arm64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:ios-x86_64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:linux-x86:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:linux-x86_64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:linux-armhf:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:linux-arm64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:linux-ppc64le:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:macosx-arm64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:macosx-x86_64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:windows-x86:4.6.0-1.5.8-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bytedeco:opencv:windows-x86_64:4.6.0-1.5.8-SNAPSHOT" level="project" />
+  </component>
+</module>

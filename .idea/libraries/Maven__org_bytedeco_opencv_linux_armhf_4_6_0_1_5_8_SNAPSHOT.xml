@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:opencv:linux-armhf:4.6.0-1.5.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/opencv/4.6.0-1.5.8-SNAPSHOT/opencv-4.6.0-1.5.8-20220820.045043-188-linux-armhf.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/opencv/4.6.0-1.5.8-SNAPSHOT/opencv-4.6.0-1.5.8-20220820.045043-188-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/opencv/4.6.0-1.5.8-SNAPSHOT/opencv-4.6.0-1.5.8-20220820.045043-188-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

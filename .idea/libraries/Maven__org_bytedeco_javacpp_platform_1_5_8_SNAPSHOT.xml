@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:javacpp-platform:1.5.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-platform/1.5.8-SNAPSHOT/javacpp-platform-1.5.8-20220820.131529-524.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-platform/1.5.8-SNAPSHOT/javacpp-platform-1.5.8-20220820.131529-524-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-platform/1.5.8-SNAPSHOT/javacpp-platform-1.5.8-20220820.131529-524-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

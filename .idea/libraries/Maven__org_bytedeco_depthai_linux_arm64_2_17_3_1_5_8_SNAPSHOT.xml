@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:depthai:linux-arm64:2.17.3-1.5.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/depthai/2.17.3-1.5.8-SNAPSHOT/depthai-2.17.3-1.5.8-20220813.080721-12-linux-arm64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/depthai/2.17.3-1.5.8-SNAPSHOT/depthai-2.17.3-1.5.8-20220813.080721-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/depthai/2.17.3-1.5.8-SNAPSHOT/depthai-2.17.3-1.5.8-20220813.080721-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
