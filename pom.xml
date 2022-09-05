@@ -19,6 +19,16 @@
             <artifactId>opencv-platform</artifactId>
             <version>4.6.0-1.5.8-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.9.8</version>
+        </dependency>
+        <dependency>
+            <groupId>edu.wpi.first.wpilib.networktables.java</groupId>
+            <artifactId>NetworkTables</artifactId>
+            <version>3.1.7</version>
+        </dependency>
     </dependencies>
 
     <build>
